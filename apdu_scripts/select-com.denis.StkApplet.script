@@ -1,0 +1,10 @@
+// Applet Selection APDU Script
+//
+// Package:     com.denis
+// Package AID: //aid/1234566540/11
+// Applet:      StkApplet
+// Applet AID:  //aid/1234566540/
+//
+
+// Select StkApplet applet
+0x00 0xA4 0x04 0x00 0x05 0x12 0x34 0x56 0x65 0x40 0x7F;
